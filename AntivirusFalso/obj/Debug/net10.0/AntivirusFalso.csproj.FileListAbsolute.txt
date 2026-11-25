@@ -1,0 +1,15 @@
+C:\datos\Documents\Proyecto-final-Kristian-Y-Eider\AntivirusFalso\bin\Debug\net10.0\AntivirusFalso.exe
+C:\datos\Documents\Proyecto-final-Kristian-Y-Eider\AntivirusFalso\bin\Debug\net10.0\AntivirusFalso.deps.json
+C:\datos\Documents\Proyecto-final-Kristian-Y-Eider\AntivirusFalso\bin\Debug\net10.0\AntivirusFalso.runtimeconfig.json
+C:\datos\Documents\Proyecto-final-Kristian-Y-Eider\AntivirusFalso\bin\Debug\net10.0\AntivirusFalso.dll
+C:\datos\Documents\Proyecto-final-Kristian-Y-Eider\AntivirusFalso\bin\Debug\net10.0\AntivirusFalso.pdb
+C:\datos\Documents\Proyecto-final-Kristian-Y-Eider\AntivirusFalso\obj\Debug\net10.0\AntivirusFalso.GeneratedMSBuildEditorConfig.editorconfig
+C:\datos\Documents\Proyecto-final-Kristian-Y-Eider\AntivirusFalso\obj\Debug\net10.0\AntivirusFalso.AssemblyInfoInputs.cache
+C:\datos\Documents\Proyecto-final-Kristian-Y-Eider\AntivirusFalso\obj\Debug\net10.0\AntivirusFalso.AssemblyInfo.cs
+C:\datos\Documents\Proyecto-final-Kristian-Y-Eider\AntivirusFalso\obj\Debug\net10.0\AntivirusFalso.csproj.CoreCompileInputs.cache
+C:\datos\Documents\Proyecto-final-Kristian-Y-Eider\AntivirusFalso\obj\Debug\net10.0\AntivirusFalso.sourcelink.json
+C:\datos\Documents\Proyecto-final-Kristian-Y-Eider\AntivirusFalso\obj\Debug\net10.0\AntivirusFalso.dll
+C:\datos\Documents\Proyecto-final-Kristian-Y-Eider\AntivirusFalso\obj\Debug\net10.0\refint\AntivirusFalso.dll
+C:\datos\Documents\Proyecto-final-Kristian-Y-Eider\AntivirusFalso\obj\Debug\net10.0\AntivirusFalso.pdb
+C:\datos\Documents\Proyecto-final-Kristian-Y-Eider\AntivirusFalso\obj\Debug\net10.0\AntivirusFalso.genruntimeconfig.cache
+C:\datos\Documents\Proyecto-final-Kristian-Y-Eider\AntivirusFalso\obj\Debug\net10.0\ref\AntivirusFalso.dll
